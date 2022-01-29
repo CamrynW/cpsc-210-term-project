@@ -1,0 +1,12 @@
+{
+   "books": [{
+      "condition": "GOOD",
+      "author": "Arthur Conan Doyle",
+      "reading status": true,
+      "review": "",
+      "rating": "TWO_STARS",
+      "loan status": false,
+      "title": "Sherlock Holmes"
+   }],
+   "name": "my Collection"
+}

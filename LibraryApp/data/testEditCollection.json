@@ -1,0 +1,23 @@
+{
+   "books": [
+      {
+         "condition": "FAIR",
+         "author": "Stephen King",
+         "reading status": false,
+         "review": "",
+         "rating": "UNRATED",
+         "loan status": false,
+         "title": "The Dead Zone"
+      },
+      {
+         "condition": "GOOD",
+         "author": "Stephen King",
+         "reading status": true,
+         "review": "I still haven't actually read this one.",
+         "rating": "THREE_STARS",
+         "loan status": true,
+         "title": "The Body"
+      }
+   ],
+   "name": "my edited collection"
+}

@@ -1,0 +1,23 @@
+{
+   "books": [
+      {
+         "condition": "FAIR",
+         "author": "Stephen King",
+         "reading status": false,
+         "review": "",
+         "rating": "UNRATED",
+         "loan status": false,
+         "title": "The Dead Zone"
+      },
+      {
+         "condition": "POOR",
+         "author": "Stephen King",
+         "reading status": true,
+         "review": "Only kind of scary in the beginning. Clowns are still the worst though.",
+         "rating": "THREE_STARS",
+         "loan status": true,
+         "title": "IT"
+      }
+   ],
+   "name": "my full collection"
+}
